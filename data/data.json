@@ -1,0 +1,49 @@
+[
+  {
+    "pokemonOwnerName": "Srinivas",
+    "pokemons": [
+      {
+        "id": "23cdfbc2-ab51-4a71-b6da-2cba39fa919f",
+        "pokemonOwnerName": "Srinivas",
+        "direction": "23",
+        "initialPositionX": "123",
+        "initialPositionY": "1224",
+        "pokemonName": "ivysaur",
+        "pokemonAbility": "overgrow",
+        "speed": "100"
+      }
+    ],
+    "pokemonAbility": "overgrow"
+  },
+  {
+    "pokemonOwnerName": "Karthik",
+    "pokemons": [
+      {
+        "id": "e7152f93-8ff1-4c65-b4ae-7aeb9433a4ed",
+        "pokemonOwnerName": "Karthik",
+        "direction": "5",
+        "initialPositionX": "1234",
+        "initialPositionY": "987",
+        "pokemonName": "growlithe",
+        "pokemonAbility": "inner-focus",
+        "speed": "200"
+      }
+    ],
+    "pokemonAbility": "inner-focus"
+  },
+  {
+    "pokemonOwnerName": "abbas",
+    "pokemons": [
+      {
+        "id": "29250114-9aab-4c3f-b19b-31d19cff0e34",
+        "pokemonOwnerName": "abbas",
+        "direction": "south",
+        "initialPositionX": "25",
+        "initialPositionY": "36",
+        "pokemonName": "wartortle",
+        "pokemonAbility": "rain-dish",
+        "speed": "1"
+      }
+    ]
+  }
+]
